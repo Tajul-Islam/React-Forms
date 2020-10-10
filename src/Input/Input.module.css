@@ -1,0 +1,7 @@
+.Invalid{
+    border: solid 1px red;
+}
+.ValidationError{
+    color: red;
+    margin: 5px 0;
+}
